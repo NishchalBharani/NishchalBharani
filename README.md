@@ -1,16 +1,24 @@
-### Hi there 👋
+ Hi there 👋, My name is Nishchal Bharani
 
-<!--
-**NishchalBharani/NishchalBharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    😈 About me
+
+    📗 I am Passionate about web development, and a Quick learner,
+    👀 I’m interested in Full Stack development
+    🌱 I’m currently learning and working on Front-End development using React js,Redux and Redux-thunk
+    💞️ Learning new technology that help's me become a better developer
+
+    Tech stack
+
+    Javascript,ES5,ES6
+    HTML , CSS ,REACT JS, REDUX,REDUX-Thunk
+    Meterial UI || Semantic React UI || Bootstrap
+    Git, git version control
+    Interested In-Node js
+    
+    Connect with me
+    
+    Linkedin: https://www.linkedin.com/in/nishchal-bharani-68887214b/
+    Gmail: nishchalbharani@gmail.com
+
