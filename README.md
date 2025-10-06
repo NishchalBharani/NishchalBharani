@@ -14,5 +14,6 @@ Tech Stack
 
 Let's Connect
 
-    LinkedIn: Nishchal Bharani
+    LinkedIn: https://www.linkedin.com/in/nishchal-bharani-68887214b/
+
     Email: nishchalbharani@gmail.com
